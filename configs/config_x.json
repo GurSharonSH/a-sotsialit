@@ -1,0 +1,8 @@
+{
+    "post_length": 100,
+    "hashtags": ["#example", "#post"],
+    "mentions": ["@example_user"],
+    "additional_parameters": {
+        "audience": "public"
+    }
+}
